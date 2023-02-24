@@ -1,0 +1,19 @@
+{
+	"cSpell.words": [
+		"etailed",
+		"inimal",
+		"msbuild",
+		"nbgv",
+		"netfx",
+		"nuget",
+		"nupkg",
+		"ormal",
+		"uiet"
+	],
+	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true,
+		"**/bin": true,
+		"**/obj": true
+	}
+}
